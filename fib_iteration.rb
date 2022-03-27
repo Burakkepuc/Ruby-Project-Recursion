@@ -5,7 +5,7 @@ def fibs(num)
   first = 0
   second = 1
   arr = [0, 1]
-  (num - 2).times do |_n| #num -2 because we already have 2 element inside the array
+  (num - 2).times do |_n| # num -2 because we already have 2 element inside the array
     arr << arr[-1] + arr[-2]
   end
   p arr

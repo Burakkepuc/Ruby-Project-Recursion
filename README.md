@@ -11,4 +11,7 @@ The Fibonacci Sequence, which sums each number with the one before it, is a grea
 1. Build a method #merge_sort that takes in an array and returns a sorted array, using a recursive merge sort methodology.
 2. Tips:
    - Think about what the base case is and what behavior is happening again and again and can actually be delegated to someone else (e.g. that same method!).
-   - It may be helpful to check out the background videos again if you don’t quite understand what should be going on.
+   - It may be helpful to check out the background videos agaein if you don’t quite understand what should be going on.
+
+## Binary sort
+[Binary Search - CS50 ](https://www.youtube.com/watch?v=T98PIp4omUA)
