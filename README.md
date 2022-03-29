@@ -13,5 +13,5 @@ The Fibonacci Sequence, which sums each number with the one before it, is a grea
    - Think about what the base case is and what behavior is happening again and again and can actually be delegated to someone else (e.g. that same method!).
    - It may be helpful to check out the background videos agaein if you don’t quite understand what should be going on.
 
-## Binary sort
+## Binary search
 [Binary Search - CS50 ](https://www.youtube.com/watch?v=T98PIp4omUA)
